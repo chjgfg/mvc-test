@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:li="http://www.lyf.cn/schema/li"
+       xsi:schemaLocation="http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.lyf.cn/schema/li
+        http://www.lyf.cn/schema/li/user.xsd">
+
+
+<li:user id="one" name="llll" pass="32232" email="20832968549@qq.com" addr="aaaaaaaaaaaaaaa"/>
+<li:user id="two" name="ddddd" pass="34343" email="333323423453@qq.com" addr="fffff"/>
+</beans>
